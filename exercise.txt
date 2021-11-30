@@ -1,0 +1,3 @@
+I would define the terminal as a big system that contains different networks and you use it to send/input information into a specific place.
+Git is where you manage the system control and  Github is an additional tool that allows you to edit Git. 
+We use Github because it is a way to share our work and allows others to add to our work.
